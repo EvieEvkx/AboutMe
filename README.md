@@ -16,6 +16,8 @@ She helps users understand electric vehicles through clear, approachable, data-d
 * travel planning
 * EV technology in general
 
+
+![Evie1.png](Evie1.png)
 ---
 
 ## 🌍 About EVKX
